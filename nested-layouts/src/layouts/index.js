@@ -23,3 +23,4 @@ export default ({ children }) =>
         {children()}
         <footer style={{ backgroundColor: '#353b48', position: "fixed", left: "0", bottom: "0", width: "100%", padding:"50px", color: "white", textAlign: "center" }}>&copy; Meghna Srivastava</footer>
     </div>
+    
