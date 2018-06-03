@@ -22,7 +22,7 @@ export default ({ children, data }) =>
     <Link className={linkStyle} to={`/about/`}>
       About
     </Link>
-    <Link className={linkStyle} to={`/my-files/`}>My Files</Link>
+    <Link className={linkStyle} to={`/my-files/`}></Link>
     {children()}
   </g.Div>
 
